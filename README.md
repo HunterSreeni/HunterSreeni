@@ -1,0 +1,37 @@
+<div align="center">
+
+# huntersreeni
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=440&lines=QA+Engineer;AI+Toolsmith%2C+24%2F7;Not+Hype%2C+Not+Vibe+Coding)](https://hunter-sreeni.netlify.app)
+
+</div>
+
+Full-time QA Engineer. AI toolsmith, 24/7. AI is not just hype, and I don't vibe code - I use it methodically, apply prompt/loop engineering responsibly, and take accountability and privacy seriously.
+
+**Right now**
+- 🏗️ Building [nithyakarma-tracker](https://github.com/HunterSreeni/nithyakarma-tracker)
+- 🧰 Managing [Electronium](https://github.com/HunterSreeni/electron-mcp-browser)
+- 🌱 Many more projects and ideas to come...
+
+**Stack**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript" title="TypeScript" />
+  <img src="https://playwright.dev/img/playwright-logo.svg" height="48" alt="Playwright" title="Playwright" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="48" alt="Selenium" title="Selenium" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=bash" height="48" alt="Bash" title="Bash" />
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=py" height="48" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=kali" height="48" alt="Kali Linux" title="Kali Linux" />
+</p>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HunterSreeni&theme=default&hide_border=true)
+
+</div>
+
+Certs, case studies, and how to reach me: **[hunter-sreeni.netlify.app](https://hunter-sreeni.netlify.app)**
