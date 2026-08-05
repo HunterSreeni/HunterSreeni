@@ -1,6 +1,6 @@
 <div align="center">
 
-# huntersreeni
+# HunterSreeni
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=440&lines=QA+Engineer;AI+Toolsmith%2C+24%2F7;Not+Hype%2C+Not+Vibe+Coding)](https://hunter-sreeni.netlify.app)
 
