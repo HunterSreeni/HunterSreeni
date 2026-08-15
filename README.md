@@ -37,7 +37,7 @@ Full-time QA Engineer. AI toolsmith, 24/7. AI is not just hype, and I don't vibe
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HunterSreeni&theme=default&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=HunterSreeni&theme=default&hide_border=true)
 
 </div>
 
