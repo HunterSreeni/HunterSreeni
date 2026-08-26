@@ -2,7 +2,7 @@
 
 # HunterSreeni
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=440&lines=QA+Engineer;AI+Toolsmith%2C+24%2F7;Not+Hype%2C+Not+Vibe+Coding)](https://hunter-sreeni.netlify.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=520&lines=SDET;Test+Automation+Engineer;Playwright+%C2%B7+CI%2FCD+%C2%B7+AI-Driven+Testing)](https://hunter-sreeni.netlify.app)
 
 </div>
 
