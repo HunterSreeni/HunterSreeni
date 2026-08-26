@@ -2,11 +2,11 @@
 
 # HunterSreeni
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=520&lines=SDET;Test+Automation+Engineer;Playwright+%C2%B7+CI%2FCD+%C2%B7+AI-Driven+Testing)](https://hunter-sreeni.netlify.app)
+### SDET and aspiring SDE/SWE
 
 </div>
 
-Full-time QA Engineer. AI toolsmith, 24/7. AI is not just hype, and I don't vibe code - I use it methodically, apply prompt/loop engineering responsibly, and take accountability and privacy seriously.
+SDET with ~4 years of quality engineering experience, owning end-to-end test strategy and automation for a multi-platform product. I use AI deliberately in my workflow - prompt and loop engineering, methodically, with accountability and privacy taken seriously - not vibe coding.
 
 **Right now**
 - 🏗️ Building [nithyakarma-tracker](https://github.com/HunterSreeni/nithyakarma-tracker)
