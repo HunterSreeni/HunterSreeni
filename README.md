@@ -9,7 +9,8 @@
 SDET with ~4 years of quality engineering experience, owning end-to-end test strategy and automation for a multi-platform product. I use AI deliberately in my workflow - prompt and loop engineering, methodically, with accountability and privacy taken seriously - not vibe coding.
 
 **Right now**
-- 🏗️ Building [nithyakarma-tracker](https://github.com/HunterSreeni/nithyakarma-tracker)
+- 🏗️ Building [nithyakarma-tracker](https://github.com/HunterSreeni/nithyakarma-tracker) (https://nithyakarma.org)
+  - Playstore link - https://play.google.com/store/apps/details?id=org.nithyakarma.app  
 - 🧰 Managing [Electronium](https://github.com/HunterSreeni/electron-mcp-browser)
 - 🌱 Many more projects and ideas to come...
 
