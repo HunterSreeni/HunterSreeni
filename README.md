@@ -2,11 +2,13 @@
 
 # HunterSreeni
 
-### SDET and aspiring SDE/SWE
+### SDET | Test Automation, Playwright, CI/CD
 
 </div>
 
-SDET with ~4 years of quality engineering experience, owning end-to-end test strategy and automation for a multi-platform product. I use AI deliberately in my workflow - prompt and loop engineering, methodically, with accountability and privacy taken seriously - not vibe coding.
+SDET with ~4 years of quality engineering experience, owning end-to-end test strategy and automation for a multi-platform product. Built my team's automation suite from zero: introduced Cypress, integrated it into the CI pipeline, then migrated to Playwright as cross-browser requirements grew. I co-own release sign-off.
+
+I write production software too, which is why the test automation is engineering rather than scripted clicks. I use AI deliberately in that workflow, prompt and loop engineering, with accountability and privacy taken seriously.
 
 **Right now**
 - 🏗️ Building [nithyakarma-tracker](https://github.com/HunterSreeni/nithyakarma-tracker) (https://nithyakarma.org)
