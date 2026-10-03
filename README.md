@@ -12,7 +12,8 @@ I write production software too, which is why the test automation is engineering
 
 **Right now**
 - 🏗️ Building [nithyakarma-tracker](https://github.com/HunterSreeni/nithyakarma-tracker) (https://nithyakarma.org)
-  - Playstore link - https://play.google.com/store/apps/details?id=org.nithyakarma.app  
+  - Playstore link - https://play.google.com/store/apps/details?id=org.nithyakarma.app
+- 🧪 Testing it in [nithyakarma-quality-lab](https://github.com/HunterSreeni/nithyakarma-quality-lab): the same 39 E2E tests in Playwright (TS) and Selenium (Java), with a [live results page](https://huntersreeni.github.io/nithyakarma-quality-lab/)
 - 🧰 Managing [Electronium](https://github.com/HunterSreeni/electron-mcp-browser)
 - 🌱 Many more projects and ideas to come...
 
