@@ -2,47 +2,24 @@
 
 # HunterSreeni
 
-### SDET | Test Automation, Playwright, CI/CD
+### QA Engineer moving into SDET | Playwright, TypeScript, API Testing and CI/CD
 
 </div>
 
-SDET with ~4 years of quality engineering experience, owning end-to-end test strategy and automation for a multi-platform product. Built my team's automation suite from zero: introduced Cypress, integrated it into the CI pipeline, then migrated to Playwright as cross-browser requirements grew. I co-own release sign-off.
+QA Engineer with around four years of quality-engineering experience. I built my team's test automation from zero, introduced Cypress in Azure DevOps, and later migrated the suite to Playwright as cross-browser requirements expanded. I co-own release readiness and work across web, API, database, device, and native-client validation.
 
-I write production software too, which is why the test automation is engineering rather than scripted clicks. I use AI deliberately in that workflow, prompt and loop engineering, with accountability and privacy taken seriously.
+## Featured SDET work
 
-**Right now**
-- 🏗️ Building [nithyakarma-tracker](https://github.com/HunterSreeni/nithyakarma-tracker) (https://nithyakarma.org)
-  - Playstore link - https://play.google.com/store/apps/details?id=org.nithyakarma.app
-- 🧪 Testing it in [nithyakarma-quality-lab](https://github.com/HunterSreeni/nithyakarma-quality-lab): the same 39 E2E tests in Playwright (TS) and Selenium (Java), with a [live results page](https://huntersreeni.github.io/nithyakarma-quality-lab/)
-- 🧰 Managing [Electronium](https://github.com/HunterSreeni/electron-mcp-browser)
-- 🌱 Many more projects and ideas to come...
+- [Nithyakarma Quality Lab](https://github.com/HunterSreeni/nithyakarma-quality-lab) - the same 39 end-to-end test cases implemented in Playwright with TypeScript and Selenium with Java/TestNG, run in GitHub Actions with [published comparison results](https://huntersreeni.github.io/nithyakarma-quality-lab/).
+- [Nithyakarma](https://nithyakarma.org) - a live React, Vite, and Capacitor product I build, release, debug, and test.
+- [Electronium](https://github.com/HunterSreeni/electron-mcp-browser) - local-first browser tooling using the Chrome DevTools Protocol.
 
-**Stack**
+## Development approach
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript" title="TypeScript" />
-  <img src="https://playwright.dev/img/playwright-logo.svg" height="48" alt="Playwright" title="Playwright" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="48" alt="Selenium" title="Selenium" />
-  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" title="React" />
-  <img src="https://skillicons.dev/icons?i=vue" height="48" alt="Vue" title="Vue" />
-  <img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=bash" height="48" alt="Bash" title="Bash" />
-  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=py" height="48" alt="Python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="48" alt="Supabase" title="Supabase" />
-  <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma" title="Figma" />
-  <img src="https://skillicons.dev/icons?i=cypress" height="48" alt="Cypress" title="Cypress" />
-  <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" title="Linux" />
-  <img src="https://skillicons.dev/icons?i=kali" height="48" alt="Kali Linux" title="Kali Linux" />
-</p>
+I use AI-assisted workflows for research, implementation, test design, and failure analysis. I remain responsible for the architecture, validation, debugging, and code I present, and can explain the decisions and trade-offs behind it.
 
-**AI-Native:** Claude Code, MCP, agent orchestration, Gemini, Ollama, LM Studio, Codex/GPT, n8n
+## Core tools
 
-<div align="center">
+Playwright, TypeScript, Cypress, Selenium, REST API testing, SQL validation, GitHub Actions, Azure DevOps, Android/ADB, shell, and PowerShell.
 
-![Streak](./profile/streak.svg)
-
-</div>
-
-Certs, case studies, and how to reach me: **[hunter-sreeni.netlify.app](https://hunter-sreeni.netlify.app)**
+Portfolio, case studies, and contact details: **[hunter-sreeni.netlify.app](https://hunter-sreeni.netlify.app)**
