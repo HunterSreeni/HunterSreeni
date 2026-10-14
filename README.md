@@ -2,24 +2,25 @@
 
 # HunterSreeni
 
-### QA Engineer moving into SDET | Playwright, TypeScript, API Testing and CI/CD
+### QA & Test Automation Engineer | Playwright (TypeScript), API Testing, Azure DevOps
 
 </div>
 
-QA Engineer with around four years of quality-engineering experience. I built my team's test automation from zero, introduced Cypress in Azure DevOps, and later migrated the suite to Playwright as cross-browser requirements expanded. I co-own release readiness and work across web, API, database, device, and native-client validation.
+QA & Test Automation Engineer with 4 years in digital signage at XOGO. I built the test automation framework from zero, starting in Cypress (JavaScript) and migrating to Playwright (TypeScript) after presenting my research to leadership. I co-own production release sign-off across web, API, database and a device matrix of native clients.
 
-## Featured SDET work
+## Featured work
 
-- [Nithyakarma Quality Lab](https://github.com/HunterSreeni/nithyakarma-quality-lab) - the same 39 end-to-end test cases implemented in Playwright with TypeScript and Selenium with Java/TestNG, run in GitHub Actions with [published comparison results](https://huntersreeni.github.io/nithyakarma-quality-lab/).
-- [Nithyakarma](https://nithyakarma.org) - a live React, Vite, and Capacitor product I build, release, debug, and test.
-- [Electronium](https://github.com/HunterSreeni/electron-mcp-browser) - local-first browser tooling using the Chrome DevTools Protocol.
+- [Nithyakarma Quality Lab](https://github.com/HunterSreeni/nithyakarma-quality-lab) - the same 39 end-to-end test cases in Playwright (TypeScript) and Selenium (Java + TestNG), run in GitHub Actions with [published results](https://huntersreeni.github.io/nithyakarma-quality-lab/).
+- [Nithyakarma Delivery Pipeline](https://github.com/HunterSreeni/nithyakarma-delivery-pipeline) - a Java + Selenium + REST Assured suite delivered through Docker, a Kubernetes Job on kind and a Jenkins pipeline.
+- [Nithyakarma](https://nithyakarma.org) - a React + Vite PWA on Supabase, live on Google Play, with GitHub Actions gating every release on automated tests.
 
-## Development approach
+## Production
+Playwright (TypeScript), Cypress (JavaScript), API testing (Playwright, Postman, Bruno), JMeter, SQL (MS SQL Server), Azure DevOps, manual and device-matrix testing.
 
-I use AI-assisted workflows for research, implementation, test design, and failure analysis. I remain responsible for the architecture, validation, debugging, and code I present, and can explain the decisions and trade-offs behind it.
+## Project experience
+Selenium WebDriver + TestNG (Java), REST Assured, Python, Docker, Jenkins, GitHub Actions, Kubernetes, React, Vue, Supabase.
 
-## Core tools
+## AI tools
+Claude Code, MCP, Codex, Ollama, Gemini.
 
-Playwright, TypeScript, Cypress, Selenium, REST API testing, SQL validation, GitHub Actions, Azure DevOps, Android/ADB, shell, and PowerShell.
-
-Portfolio, case studies, and contact details: **[hunter-sreeni.netlify.app](https://hunter-sreeni.netlify.app)**
+Portfolio and resume: **[hunter-sreeni.netlify.app](https://hunter-sreeni.netlify.app)**
