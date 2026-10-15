@@ -1,6 +1,6 @@
 <div align="center">
 
-# HunterSreeni
+# Sreenivasan [HunterSreeni]
 
 ### QA & Test Automation Engineer | Playwright (TypeScript), API Testing, Azure DevOps
 
